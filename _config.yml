@@ -1,12 +1,16 @@
 #
+
+1. er.
+2. Change the title, description, and url values to match your identity. Ensure your url points to https://yourusername.github.io.
 # This file contains configuration flags to customize your site
+
 #
 
 # Name of your site (displayed in the header)
-name: Your Name
+name: NingLingo : Chinese Lessons with 刘宇宁 Lyrics for Korean-English Bilinguals
 
 # Short bio or description (displayed in the header)
-description: Web Developer from Somewhere
+description: Learning Chinese through Popular Songs by 刘宇宁 (Liu Yuning)
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
